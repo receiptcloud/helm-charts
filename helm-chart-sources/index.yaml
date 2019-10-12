@@ -17,7 +17,7 @@ entries:
     digest: 688d38383af92aaf51f78e9f80233a7f70cb6708de1cf40a669b7572daa09b13
     name: identityserver-sts
     urls:
-    - /helm-chart-sources/identityserver-sts-0.1.11.tgz
+    - /helm-charts/helm-chart-sources/identityserver-sts-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v1
     appVersion: "1.0"
@@ -26,7 +26,7 @@ entries:
     digest: 0639bdd703582437ef802ec3d82b21dc2ec92832374c5c5d7e6d90b54a5b7fa7
     name: identityserver-sts
     urls:
-    - /helm-chart-sources/identityserver-sts-0.1.10.tgz
+    - /helm-charts/helm-chart-sources/identityserver-sts-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v1
     appVersion: "1.0"
@@ -35,7 +35,7 @@ entries:
     digest: c37458d419b48f0fd6024b6933ba35f567b7cca85ff90d3db7427901f6a36678
     name: identityserver-sts
     urls:
-    - /helm-chart-sources/identityserver-sts-0.1.1.tgz
+    - /helm-charts/helm-chart-sources/identityserver-sts-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -44,6 +44,6 @@ entries:
     digest: f64c7917ead6667ce426cf88abc455ddc7f52d758afcc8a2e461f44ff04132d7
     name: identityserver-sts
     urls:
-    - /helm-chart-sources/identityserver-sts-0.1.0.tgz
+    - /helm-charts/helm-chart-sources/identityserver-sts-0.1.0.tgz
     version: 0.1.0
 generated: "2019-10-12T19:16:12.91493294+02:00"
