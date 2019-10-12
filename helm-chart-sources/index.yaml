@@ -3,6 +3,15 @@ entries:
   identityserver-sts:
   - apiVersion: v1
     appVersion: "1.0"
+    created: "2019-10-13T01:33:46.715214424+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 73d4d09dcd50c3da1a9ba206cc7189397f39eee8781b7deddf27efa52fd1a7bf
+    name: identityserver-sts
+    urls:
+    - /helm-charts/helm-chart-sources/identityserver-sts-0.1.16.tgz
+    version: 0.1.16
+  - apiVersion: v1
+    appVersion: "1.0"
     created: "2019-10-13T00:34:18.341781873+02:00"
     description: A Helm chart for Kubernetes
     digest: bd380c12a093e4ef871823088cf3ddbfbce1a8e8b2948c28def213a9127e763a
@@ -64,4 +73,4 @@ entries:
     urls:
     - /helm-charts/helm-chart-sources/identityserver-sts-0.1.0.tgz
     version: 0.1.0
-generated: "2019-10-13T00:34:18.34148635+02:00"
+generated: "2019-10-13T01:33:46.714894663+02:00"
